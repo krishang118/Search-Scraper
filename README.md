@@ -27,7 +27,7 @@ A Selenium-based web scraper that extracts and analyzes Wikipedia article and Go
 ## How to Run
 
 1. Clone this repository on your local machine.
-2. Install the following required packages:
+2. Install the following required dependencies:
 ```bash
 pip install selenium>=4.0.0 requests>=2.26.0 matplotlib>=3.4.0 seaborn>=0.11.0 pandas>=1.3.0 Pillow>=8.3.0 numpy>=1.21.0 ipython>=7.0.0 jupyter>=1.0.0
 ```
